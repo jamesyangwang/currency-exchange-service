@@ -28,3 +28,4 @@ public class CurrencyExchangeController {
 
 //http://localhost:8000/currency-exchange/from/USD/to/CNY
 //http://localhost:8001/currency-exchange/from/EUR/to/CNY	(-Dserver.port=8001)
+//http://localhost:8002/currency-exchange/from/EUR/to/CNY	(-Dserver.port=8002)
